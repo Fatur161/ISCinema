@@ -1,0 +1,134 @@
+<mxfile host="app.diagrams.net" modified="2025-03-11T14:31:37.201Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0" etag="qVHpC8k6aSGrmURpiPQE" version="24.4.6" type="github">
+  <diagram name="Страница — 1" id="IhPEN0UmGV-mYzYYe4HZ">
+    <mxGraphModel dx="823" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ZNtM2zuXFyINoETceT2_-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;curved=0;endArrow=none;endFill=0;" edge="1" parent="1" source="ZNtM2zuXFyINoETceT2_-1" target="ZNtM2zuXFyINoETceT2_-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZNtM2zuXFyINoETceT2_-1" value="Директор Кинотеатра" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="20" width="126" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZNtM2zuXFyINoETceT2_-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="136" y="100" as="sourcePoint" />
+            <mxPoint x="383" y="60" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="80" y="100" />
+              <mxPoint x="80" y="80" />
+              <mxPoint x="383" y="80" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZNtM2zuXFyINoETceT2_-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="ZNtM2zuXFyINoETceT2_-2" target="ZNtM2zuXFyINoETceT2_-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZNtM2zuXFyINoETceT2_-2" value="Отдел управления" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="100" width="126" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZNtM2zuXFyINoETceT2_-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="699" y="97" as="sourcePoint" />
+            <mxPoint x="382" y="60" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="660" y="97" />
+              <mxPoint x="660" y="80" />
+              <mxPoint x="383" y="80" />
+              <mxPoint x="383" y="60" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZNtM2zuXFyINoETceT2_-3" value="Бухгалтерcий отдел" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="594" y="97" width="126" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZNtM2zuXFyINoETceT2_-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="322" y="250" as="sourcePoint" />
+            <mxPoint x="294.9999999999998" y="140" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="277" y="250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZNtM2zuXFyINoETceT2_-4" value="Кассир" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="304" y="230" width="126" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZNtM2zuXFyINoETceT2_-5" value="Администратор зала" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="304" y="179" width="126" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZNtM2zuXFyINoETceT2_-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="503" y="250" as="sourcePoint" />
+            <mxPoint x="463" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZNtM2zuXFyINoETceT2_-7" value="Менеджер по маркетингу" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="230" width="126" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZNtM2zuXFyINoETceT2_-8" value="Контент менеджер" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="179" width="126" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZNtM2zuXFyINoETceT2_-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZNtM2zuXFyINoETceT2_-9" target="ZNtM2zuXFyINoETceT2_-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZNtM2zuXFyINoETceT2_-9" value="Операционный отдел" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="214" y="100" width="126" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZNtM2zuXFyINoETceT2_-19" value="Зам. Директора" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="113" y="179" width="126" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZNtM2zuXFyINoETceT2_-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="464" y="97" as="sourcePoint" />
+            <mxPoint x="384" y="60" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="464" y="80" />
+              <mxPoint x="383" y="80" />
+              <mxPoint x="383" y="60" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZNtM2zuXFyINoETceT2_-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="ZNtM2zuXFyINoETceT2_-21" target="ZNtM2zuXFyINoETceT2_-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZNtM2zuXFyINoETceT2_-21" value="Отдел контента и продвижения" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="97" width="126" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZNtM2zuXFyINoETceT2_-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="ZNtM2zuXFyINoETceT2_-27" target="ZNtM2zuXFyINoETceT2_-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="30" y="250" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="93" y="250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZNtM2zuXFyINoETceT2_-27" value="Юридический консультант" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="113" y="230" width="126" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZNtM2zuXFyINoETceT2_-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.443;entryY=0.994;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="714" y="199" as="sourcePoint" />
+            <mxPoint x="653.818" y="136.76" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZNtM2zuXFyINoETceT2_-29" value="Главный бухгалтер" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="671" y="179" width="126" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZNtM2zuXFyINoETceT2_-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="675" y="250.01886792452837" as="sourcePoint" />
+            <mxPoint x="661" y="137" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="654" y="250" />
+              <mxPoint x="654" y="137" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZNtM2zuXFyINoETceT2_-33" value="Бухгалтер" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="671" y="230" width="126" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
